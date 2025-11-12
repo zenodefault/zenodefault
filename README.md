@@ -5,7 +5,6 @@
 ### 📱 i am working with **Flutter & Dart** for cross-platform mobile apps
 ### 💻 Passionate about exploring different fields of **Computer Science**
 ### 🎮 Fun fact: I **love reading manga**!
-### 💬 Reach me on Discord: **@xenodefault**
 
 ---
 
