@@ -26,8 +26,6 @@
 
 ## 📈 GitHub Stats
 
-![Zeno's GitHub stats](https://github-readme-stats.vercel.app/api?username=zenodefault&show_icons=true&theme=radical&hide_border=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zenodefault&layout=compact&theme=radical&hide_border=true)
 
 > ⚠️ Public repos are limited for now—but more projects are on the way!
